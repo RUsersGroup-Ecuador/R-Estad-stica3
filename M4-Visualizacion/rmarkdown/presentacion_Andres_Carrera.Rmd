@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# 1. INTRODUCCIÓN
+# 1. INTRODUCCIÓN:
 ## Gestión de Cobranza
 Es una etapa fundamental en la administración de portafolios de crédito masivos, no solo desde el punto de vista del proceso de contacto con el cliente, sino desde la perspectiva operativa de la recaudación, dado que si no se cuenta con las herramientas que permitan un proceso ágil y efectivo, probablemente se genere un desincentivo por parte del cliente para el pago de sus obligaciones.
 
