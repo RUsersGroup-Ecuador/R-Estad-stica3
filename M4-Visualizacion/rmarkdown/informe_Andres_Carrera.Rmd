@@ -32,7 +32,7 @@ Venta_S<-cbind(Perfiles_S[,1],subset(Perfiles_S,select=colnames(Perfiles_S)[158:
 Rank_S<-cbind(Perfiles_S[,1],subset(Perfiles_S,select=colnames(Perfiles_S)[674:724]))
 ```
 
-## TRATAMIENTO DE LA BASE DE DATOS
+### TRATAMIENTO DE LA BASE DE DATOS
 # Analisis de Frecuencias de visitas en las 52 semanas y creación de la variable Frecuencia para el modelo RFM
 El siguiente código permite analizar los valores atípicos para cada una de las semanas y calcular la frecuencia de visita para cada cliente en este tiempo.
 ```{r,results='hide',echo=T,message=FALSE,eval=FALSE}
