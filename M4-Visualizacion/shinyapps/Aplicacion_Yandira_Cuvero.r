@@ -6,7 +6,7 @@ library(ggplot2)
 library(sp)
 library(maptools)
 library(rgdal)
- 
+
 load(url("https://github.com/yandiraccv/Muestreo/raw/master/amies.RData"))
 
 # Define UI for application that draws a histogram
